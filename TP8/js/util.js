@@ -50,10 +50,16 @@ function ComparandoDatosC() {
 
 //4
 
-//BUTI
-
-
 //5
-function DoblePalabra(palabra){
-    
+
+//6
+
+//7
+
+//8
+function ejer8(cadenaIngresada,palabraAremplazar,palabraReemplazo){
+    let fraseFinal = cadenaIngresada.replace(palabraAremplazar,palabraReemplazo);
+    return fraseFinal;
 }
+
+//11
